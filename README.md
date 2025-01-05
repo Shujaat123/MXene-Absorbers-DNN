@@ -28,10 +28,13 @@ Waleed Iqbal Waseer, Muhammad Abuzar Baqir, Muhammad Saqlain, Muhammad Junaid Mu
 
 ---
 
-## Repository Structure
+## Dataset
 
-**Note:**  
-The exact folder organization can vary. Adjust as needed for your specific workflow.
+The dataset used in this study comprises **501 images** and their corresponding absorption spectra.  
+- The images are stored in the **`images/`** folder.  
+- The absorption spectra are provided in **`absorbtion spectra.xlsx`**.  
+
+For more details on how these data were generated or used, please refer to the manuscript.
 
 ---
 
