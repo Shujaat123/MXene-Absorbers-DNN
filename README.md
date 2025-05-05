@@ -6,8 +6,8 @@ Welcome to the **Predictive Modeling of MXene-Based Solar Absorbers** repository
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Repository Structure](#repository-structure)
-6. [Citation](#citation)
+2. [Dataset](#Dataset)
+3. [Citation](#citation)
 
 
 ---
