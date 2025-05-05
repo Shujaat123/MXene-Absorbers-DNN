@@ -41,9 +41,13 @@ For more details on how these data were generated or used, please refer to the m
 ## Citation
 If you find this repository helpful in your research or work, please cite our paper:
 
-@article{Waseer2025PredictiveMXene,
-  title={Predictive Modeling of MXene-Based Solar Absorbers Using Deep Neural Network},
+@article{waseer2025predictive,
+  title={Predictive modeling of MXene-based solar absorbers using a deep neural network},
   author={Waseer, Waleed Iqbal and Baqir, Muhammad Abuzar and Saqlain, Muhammad and Mughal, Muhammad Junaid and Khan, Shujaat},
-  journal={XXXXX},
-  year={XXXX}
+  journal={Journal of the Optical Society of America B},
+  volume={42},
+  number={4},
+  pages={763--772},
+  year={2025},
+  publisher={Optica Publishing Group}
 }
